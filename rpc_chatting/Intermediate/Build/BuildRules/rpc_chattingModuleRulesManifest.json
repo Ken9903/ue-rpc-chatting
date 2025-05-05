@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Project\\ue5-rpc-chatting\\rpc_chatting\\Source\\rpc_chatting\\rpc_chatting.Build.cs",
+		"C:\\Project\\ue5-rpc-chatting\\rpc_chatting\\Source\\rpc_chatting.Target.cs",
+		"C:\\Project\\ue5-rpc-chatting\\rpc_chatting\\Source\\rpc_chattingEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.3"
+}
