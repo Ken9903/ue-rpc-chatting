@@ -19,6 +19,6 @@ void UChatLineWidget::Setup(const FChatMessage& ChatMessage) const
 		TimeText->SetText(FText::AsDateTime(ChatMessage.Timestamp));
 	}
 
-	UE_LOG(LogTemp, Log, TEXT("SeutUp"));
+	UE_LOG(LogTemp, Log, TEXT("UI Text SetUp"));
 
 }
